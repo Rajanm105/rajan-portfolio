@@ -1,11 +1,35 @@
-# Rajan Mishra Portfolio Template
+# Rajan Mishra
+## Python Backend Developer
 
-Open `index.html` in a browser.
+I build secure, scalable backend systems and business automations.
 
-Replace:
-- `YOUR_EMAIL@example.com`
-- `YOUR_GITHUB_PROJECT_LINK`
-- `YOUR_USERNAME`
-- `YOUR_LINKEDIN_URL`
+### What I Build
 
-Then deploy the folder to any static host.
+• REST APIs
+• Authentication Systems
+• Payment Integrations
+• AI Automation
+• AWS / Docker Deployments
+
+### Featured Projects
+
+🔐 Authentication API
+JWT • RBAC • PostgreSQL • FastAPI
+
+💳 Payment Service
+Razorpay • Webhooks • PostgreSQL • FastAPI
+
+🤖 AI Email Assistant
+Python • OpenAI • SMTP
+
+☁ File Upload Service
+AWS S3 • FastAPI • Docker
+
+### Available for Freelance
+
+Backend Development
+API Integrations
+AI Automation
+Backend Bug Fixes
+
+📧 YOUR EMAIL
