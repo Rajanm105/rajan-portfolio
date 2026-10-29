@@ -32,4 +32,4 @@ API Integrations
 AI Automation
 Backend Bug Fixes
 
-📧 YOUR EMAIL
+📧 rajanmishra96034@gmail.com
